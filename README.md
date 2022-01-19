@@ -1,7 +1,9 @@
 Skin Lesion Detector
 
 ToDo:
--> Build Deep Learning model using Tensorflow with Transfer Learning
--> Build Streamlit UI
--> Integrate model to UI
--> Deploy App
+<ul>
+  <li>Build Deep Learning model using Tensorflow with Transfer Learning</li>
+  <li>Build Streamlit UI</li> 
+  <li>Integrate model to UI</li>
+  <li>Deploy App</li>
+</ul>
